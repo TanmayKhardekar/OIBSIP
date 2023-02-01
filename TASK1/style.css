@@ -1,0 +1,17 @@
+
+.button1{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 2px;
+    background-color: rgba(146, 207, 235, 0.637);
+
+}
+
+.row{
+    margin: 8px;
+}
+h1{
+    color: grey;
+}
+
